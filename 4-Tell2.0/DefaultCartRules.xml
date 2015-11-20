@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cartRules>
+	<!-- field name defaults (GroupIds are only for xml feeds) -->
+	<attribute1 enabled="true" name="Category" fieldName="CategoryIDs" />
+	<attribute2 enabled="true" name="Brand" fieldName="BrandID" />
+	<productGroupIdField></productGroupIdField>
+	<productIdField></productIdField>
+	<nameField></nameField>
+	<att1IdField></att1IdField>
+	<att2IdField></att2IdField>
+	<priceField></priceField>
+	<salePriceField></salePriceField>
+	<listPriceField></listPriceField>
+	<costField></costField>
+	<priceTopField></priceTopField>
+	<salePriceTopField></salePriceTopField>
+	<listPriceTopField></listPriceTopField>
+	<costTopField></costTopField>
+	<onSaleField></onSaleField>
+	<filterField></filterField>
+	<ratingField></ratingField>
+	<standardCodeField></standardCodeField>
+	<linkField></linkField>
+	<imageLinkField></imageLinkField>
+	<visibleField></visibleField>
+	<inventoryField></inventoryField>
+	<useInventoryField></useInventoryField>
+	<imageIdField></imageIdField>
+	<parentIdField></parentIdField>
+	<orderGroupIdField></orderGroupIdField>
+	<orderIdField></orderIdField>
+	<orderProductIdField></orderProductIdField>
+	<orderCustomerIdField></orderCustomerIdField>
+	<orderQuantityField></orderQuantityField>
+	<orderDateField></orderDateField>
+	<att1NameGroupIdField></att1NameGroupIdField>
+	<att1NameIdField></att1NameIdField>
+	<att1NameNameField></att1NameNameField>
+	<att2NameGroupIdField></att2NameGroupIdField>
+	<att2NameIdField></att2NameIdField>
+	<att2NameNameField></att2NameNameField>
+	<customerGroupIdField></customerGroupIdField>
+	<customerIdField></customerIdField>
+</cartRules>

@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<siteRules>
+  <alias>toweltuk</alias>
+  <tier>Pro1</tier>
+  <storeUrl>www.thetowelshop.co.uk</storeUrl>
+  <cartType>BigCommerce</cartType>
+  <cartLevel>0</cartLevel>
+  <extractorCredentials>
+    <type>BasicAuth</type>
+    <userName>4-tell</userName>
+    <password>0f533e0daafe159b9c20d2ab4244af00b546b5</password>
+    <requireSsl>true</requireSsl>
+  </extractorCredentials>
+  <lastExtractionType>Catalog</lastExtractionType>
+  <lastDynamicUpdateType>Inventory</lastDynamicUpdateType>
+  <lastExtractionTime>2015-11-18T12:13:05.3778649-08:00</lastExtractionTime>
+  <lastDynamicUpdateTime>2015-11-17T12:30:13.462194-08:00</lastDynamicUpdateTime>
+  <lastGeneratorTime>2015-10-27T18:48:17.9981099-07:00</lastGeneratorTime>
+  <lastRuleChange>2015-10-09T13:56:06.6524054-07:00</lastRuleChange>
+  <lastExtractorDuration>2</lastExtractorDuration>
+  <lastGeneratorDuration>1</lastGeneratorDuration>
+  <currencySymbol>£</currencySymbol>
+  <adminUser>support@4-Tell.com</adminUser>
+  <adminPassword>4Newpw15</adminPassword>
+  <apiUrl>https://www.thetowelshop.co.uk/api/v2/</apiUrl>
+  <apiUserName>4-tell</apiUserName>
+  <apiCountEnabled>false</apiCountEnabled>
+  <apiKey>8f0f533e0daafe159b9c20d2ab4244af00b546b5</apiKey>
+  <apiAcceptHeader>application/json</apiAcceptHeader>
+  <cartWebClientConfig>
+    <sessionTimeout>600</sessionTimeout>
+    <responseTimeout>600</responseTimeout>
+    <retryDelay>2000</retryDelay>
+    <maxTries>1</maxTries>
+    <connectionLimit>48</connectionLimit>
+    <securityProtocol>Ssl3,Tls</securityProtocol>
+    <protocolVersion>1.1</protocolVersion>
+    <keepAlive>false</keepAlive>
+    <expect100Continue>false</expect100Continue>
+    <allowUnsafeHeaderParsing>false</allowUnsafeHeaderParsing>
+  </cartWebClientConfig>
+  <extractCustomerData>true</extractCustomerData>
+  <ignoreStockInPriceRange>true</ignoreStockInPriceRange>
+  <scrapeCategoryThumbnails>false</scrapeCategoryThumbnails>
+  <rulesEnabled>Exclusions,Replacements</rulesEnabled>
+  <exclusionConditions>
+    <condition name="Not Visible" comparison="Eq" value="false" fieldName="is_visible" />
+    <condition name="Out Of Stock" comparison="Lt" value="1" fieldName="inventory_level" />
+    <condition name="Free" comparison="Lt" value=".01" fieldName="price" />
+  </exclusionConditions>
+  <updateTimer enabled="true" extractType="Update" rate="Daily" hourOfDay="18" />
+  <exclusionStats>
+    <stat name="Out Of Stock" value="771" />
+    <stat name="Missing Image" value="7" />
+  </exclusionStats>
+  <feedCharMap>
+    <mapPair from="\0x22" to="0x22" />
+    <mapPair from="0x22[[" to="[[" />
+    <mapPair from="]]0x22" to="]]" />
+  </feedCharMap>
+  <attribute1 enabled="true" name="Category" fieldName="categories" />
+  <attribute2 enabled="true" name="Brand" fieldName="brand_id" />
+</siteRules>

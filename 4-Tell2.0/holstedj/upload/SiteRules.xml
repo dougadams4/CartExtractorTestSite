@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<siteRules>
+  <alias>holstedj</alias>
+  <tier>Pro1</tier>
+  <storeUrl>www.holstedjewelers.com</storeUrl>
+  <cartType>Shopify</cartType>
+  <cartLevel>0</cartLevel>
+  <extractorCredentials>
+    <type>BasicAuth</type>
+    <userName>4-tell</userName>
+    <password>8fdd55113c8fa67b50433b5792be90</password>
+    <requireSsl>true</requireSsl>
+  </extractorCredentials>
+  <lastExtractionType>Catalog</lastExtractionType>
+  <lastDynamicUpdateType>Inventory</lastDynamicUpdateType>
+  <lastExtractionTime>2015-11-19T13:16:40.3556323-08:00</lastExtractionTime>
+  <lastDynamicUpdateTime>2015-11-17T12:27:19.5744954-08:00</lastDynamicUpdateTime>
+  <lastGeneratorTime>2015-10-25T23:12:12.9791276-07:00</lastGeneratorTime>
+  <lastRuleChange>2015-10-19T05:31:33.6983994-07:00</lastRuleChange>
+  <lastExtractorDuration>7</lastExtractorDuration>
+  <lastGeneratorDuration>1</lastGeneratorDuration>
+  <apiUrl>https://holsted-jewelers.myshopify.com/admin/</apiUrl>
+  <apiUserName>4-tell</apiUserName>
+  <apiVersion>3.5</apiVersion>
+  <apiCountEnabled>false</apiCountEnabled>
+  <apiAllowExtraRows>true</apiAllowExtraRows>
+  <apiKey>778fdd55113c8fa67b50433b5792be90</apiKey>
+  <apiAcceptHeader>application/json</apiAcceptHeader>
+  <cartWebClientConfig>
+    <sessionTimeout>600</sessionTimeout>
+    <responseTimeout>600</responseTimeout>
+    <retryDelay>2000</retryDelay>
+    <maxTries>1</maxTries>
+    <connectionLimit>48</connectionLimit>
+    <securityProtocol>Ssl3,Tls</securityProtocol>
+    <protocolVersion>1.1</protocolVersion>
+    <keepAlive>false</keepAlive>
+    <expect100Continue>false</expect100Continue>
+    <allowUnsafeHeaderParsing>false</allowUnsafeHeaderParsing>
+  </cartWebClientConfig>
+  <extractCustomerData>true</extractCustomerData>
+  <scrapeCategoryThumbnails>false</scrapeCategoryThumbnails>
+  <rulesEnabled>UpSell,Exclusions,CatOptimize,Replacements</rulesEnabled>
+  <exclusionConditions>
+    <condition name="Not Visible" comparison="Eq" value="0" fieldName="published_at" />
+    <condition name="Out Of Stock" comparison="Lt" value="1" fieldName="inventory_quantity" />
+    <condition name="Free" comparison="Lt" value=".01" fieldName="price" />
+  </exclusionConditions>
+  <updateTimer enabled="true" extractType="Update" rate="Daily" hourOfDay="23" />
+  <exclusionStats>
+    <stat name="Out Of Stock" value="393" />
+    <stat name="Missing Image" value="1" />
+  </exclusionStats>
+  <feedCharMap>
+    <mapPair from="\0x22" to="0x22" />
+    <mapPair from="0x22[[" to="[[" />
+    <mapPair from="]]0x22" to="]]" />
+  </feedCharMap>
+  <attribute1 enabled="true" name="Category" fieldName="categories" />
+  <attribute2 enabled="true" name="Brand" fieldName="vendor" />
+</siteRules>

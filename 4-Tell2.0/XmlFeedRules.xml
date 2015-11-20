@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cartRules>
+	<!-- all settings can be overridden in the site rules -->
+	<!-- field name defaults -->
+	<!-- catalog -->
+	<productGroupIdField>Product</productGroupIdField>
+	<productIdField>ProductID</productIdField>
+	<nameField>Name</nameField>
+	<att1IdField>CategoryIDs</att1IdField>
+	<att2IdField>ManufacturerID</att2IdField>
+	<priceField>Price</priceField>
+	<salePriceField>SalePrice</salePriceField>
+	<listPriceField>ListPrice</listPriceField>
+	<costField>Cost</costField>
+	<priceTopField></priceTopField>
+	<salePriceTopField></salePriceTopField>
+	<listPriceTopField></listPriceTopField>
+	<costTopField></costTopField>
+	<onSaleField>OnSale</onSaleField>
+	<filterField>Filter</filterField>
+	<ratingField>Rating</ratingField>
+	<standardCodeField>StandardCode</standardCodeField>
+	<linkField>Link</linkField>
+	<imageLinkField>ImageLink</imageLinkField>
+	<visibleField>Visible</visibleField>
+	<inventoryField>Inventory</inventoryField>
+	<useInventoryField></useInventoryField>
+	<imageIdField></imageIdField>
+	<parentIdField>ParentID</parentIdField>
+	<!-- orders (sales) -->
+	<orderGroupIdField>Order</orderGroupIdField>
+	<orderIdField>OrderId</orderIdField>
+	<orderProductIdField>ProductID</orderProductIdField>
+	<orderCustomerIdField>CustomerId</orderCustomerIdField>
+	<orderQuantityField>Quantity</orderQuantityField>
+	<orderDateField>Date</orderDateField>
+	<!-- att1 names -->
+	<att1NameGroupIdField>Category</att1NameGroupIdField>
+	<att1NameIdField>ID</att1NameIdField>
+	<att1NameNameField>Name</att1NameNameField>
+	<!-- att2 names -->
+	<att2NameGroupIdField>Brand</att2NameGroupIdField>
+	<att2NameIdField>ID</att2NameIdField>
+	<att2NameNameField>Name</att2NameNameField>
+	<!-- customers -->
+	<customerGroupIdField>Customer</customerGroupIdField>
+	<customerIdField>CustomerID</customerIdField>
+	<!-- inventory -->
+	<inventoryGroupId>Inventory</inventoryGroupId>
+	<inventoryProductId>ProductID</inventoryProductId>
+	<inventoryQuantity>Quantity</inventoryQuantity>
+</cartRules>

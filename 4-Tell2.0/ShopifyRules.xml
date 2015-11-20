@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cartRules>
+	<!-- all settings can be overridden in the site rules -->
+	<!-- field name defaults -->
+  <!-- catalog -->
+  <productIdField>id</productIdField>
+  <nameField>title</nameField>
+  <att1IdField>categories</att1IdField>
+  <att2IdField>vendor</att2IdField>
+  <priceField>price</priceField>
+  <salePriceField>sale_price</salePriceField>
+  <listPriceField>compare_at_price</listPriceField>
+  <costField>cost_price</costField>
+  <inventoryField>inventory_quantity</inventoryField>
+  <visibleField>published_at</visibleField>
+  <linkField>handle</linkField>
+  <imageLinkField>image.src</imageLinkField>
+  <ratingField>rating_total</ratingField>
+  <parentIdField>parent_id</parentIdField>
+  <standardCodeField>sku</standardCodeField>
+  <priceTopField></priceTopField>
+  <salePriceTopField></salePriceTopField>
+  <listPriceTopField></listPriceTopField>
+  <costTopField></costTopField>
+  <onSaleField></onSaleField>
+  <filterField></filterField>
+  <useInventoryField></useInventoryField>
+  <imageIdField>image</imageIdField> 
+  <!-- orders (sales) -->
+  <orderIdField>id</orderIdField>
+  <orderProductIdField>product_id</orderProductIdField>
+  <orderCustomerIdField>customer.id</orderCustomerIdField>
+  <orderQuantityField>quantity</orderQuantityField>
+  <orderDateField>created_at</orderDateField>
+
+  <!-- att1 names -->
+  <att1NameIdField>id</att1NameIdField>
+  <att1NameNameField>title</att1NameNameField>
+  <!-- att2 names -->
+  <att2NameIdField>id</att2NameIdField>
+  <att2NameNameField>name</att2NameNameField>
+  <!-- customers -->
+  <customerIdField>id</customerIdField>
+  <!-- inventory -->
+  <inventoryProductIdField>id</inventoryProductIdField>
+  <inventoryQuantityField>inventory_quantity</inventoryQuantityField>
+</cartRules>
