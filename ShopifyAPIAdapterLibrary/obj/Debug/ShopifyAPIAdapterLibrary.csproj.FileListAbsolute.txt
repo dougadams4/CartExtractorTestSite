@@ -1,0 +1,32 @@
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\Logical Phallacy\Desktop\DotNet4.5\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractor\4TellDataExport\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractor\4TellDataExport\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractor\4TellDataExport\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractor\4TellDataExport\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractor\4TellDataExport\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite - Scott\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Debug\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\obj\Debug\ShopifyAPIAdapterLibrary.pdb

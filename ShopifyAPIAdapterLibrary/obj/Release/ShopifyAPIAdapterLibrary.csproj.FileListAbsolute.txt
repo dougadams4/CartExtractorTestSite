@@ -1,0 +1,25 @@
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.pdb
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\MacSample\Desktop\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.csprojResolveAssemblyReference.cache
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\Documents\Visual Studio 2013\Projects\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.pdb
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.pdb
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.xml
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.dll
+C:\inetpub\wwwroot\4TellforShopify\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Release\ShopifyAPIAdapterLibrary.pdb
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.dll
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\bin\Release\Newtonsoft.Json.xml
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.dll
+C:\Users\mark\documents\visual studio 2013\Projects\CartExtractorTestSite\ShopifyAPIAdapterLibrary\obj\Release\ShopifyAPIAdapterLibrary.pdb

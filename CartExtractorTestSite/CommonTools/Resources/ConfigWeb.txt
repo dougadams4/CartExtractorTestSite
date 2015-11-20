@@ -1,0 +1,4 @@
+Version	1.0
+MinLikelihood	10
+MinCommon	2
+ResultFormat	SpaceDelimited

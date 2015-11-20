@@ -1,0 +1,12 @@
+Version	1.0
+Owner	Ken Levy
+Email	ken@4-tell.com
+WebEngine	http://localhost/4-TellWeb/
+Resell	0
+MinLikelihood	10
+MinCommon	2
+Format	ProductBrandAndCategory
+OutOfStock	0
+NumHeaderLinesInFile	0
+NumFiles	1
+Sales.txt
